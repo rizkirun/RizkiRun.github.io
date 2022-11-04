@@ -4,7 +4,9 @@ body {
 
 .jumbotron {
   padding-top: 6rem;
-  background-color: #bdeaca;
+  background-image: url(../portfoloio-bootstrap5/img/langit.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 #Gallery {
@@ -13,4 +15,16 @@ body {
 
 section {
   padding-top: 8rem;
+}
+
+.ig {
+  font-size: 100px;
+}
+
+.fb {
+  font-size: 100px;
+}
+
+.github {
+  font-size: 100px;
 }
