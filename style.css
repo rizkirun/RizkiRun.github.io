@@ -4,7 +4,7 @@ body {
 
 .jumbotron {
   padding-top: 6rem;
-  background-image: url(../portfoloio-bootstrap5/img/langit.jpg);
+  background-image: url(langit.jpg);
   background-size: cover;
   background-position: center;
 }
